@@ -1,5 +1,3 @@
-Sure, here's a sample README for your ML challenge solution on rice blast disease classification with an F1 score of 0.9:
-
 # Rice Blast Disease Classification Using Multispectral Images
 
 This project aims to classify the disease of a rice plant in RGB and Infrared images using computer vision and machine learning techniques. The objective is to predict rice blast disease, which is responsible for 30% loss in rice production worldwide, and help in early diagnosis to manage crop diseases.
